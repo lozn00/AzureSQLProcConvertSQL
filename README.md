@@ -1,11 +1,14 @@
 # SqlConvert README
 
 Converting stored procedure code into SQL statements with one click solves the problem of remote debugging and inconvenient testing
-
+ne-click conversion of Microsoft SQL Server stored procedures into SQ statements, input parameters, 
+easy to perform modification tests, after the test is completed, 
+one-click reverse into stored procedures. 
+It is used to solve the problem that the remote test stored procedure is difficult to debug and the test code must modify the stored procedure
 
 ## Features
 
-Support more language
+Support more SQL language
 
 
 ## Requirements
@@ -24,7 +27,7 @@ This extension contributes the following settings:
 
 ## Known Issues
 
-Calling out known issues can help limit users opening duplicate issues against your extension.
+Need Format Store Procdure 
 
 ## Release Notes
 
